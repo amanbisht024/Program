@@ -1,0 +1,16 @@
+#div1{
+    background-color: tan;
+    border: 2px solid blueviolet;
+    border-radius: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 150px;
+    padding: 30px 30px;
+}
+
+body{
+    /* background-image: url(Passport.JPG); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
